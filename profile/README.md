@@ -146,7 +146,7 @@ Most projects have their own `CONTRIBUTING.md` with specific guidelines.
 
 ## 🗺️ Roadmap
 
-### Current Focus (Q4 2024 - Q1 2025)
+### Current Focus (Q4 2025 - Q1 2026)
 
 - [ ] **Documentation Automation Suite** — Complete the upkeep-docs toolchain
 - [ ] **Markdown Publisher v2** — Add more platform integrations (Medium, Hashnode, etc.)
@@ -170,8 +170,8 @@ Most projects have their own `CONTRIBUTING.md` with specific guidelines.
 ![Languages](https://img.shields.io/badge/Primary%20Language-TypeScript%20%7C%20JavaScript-green.svg)
 
 **Recent Activity:**
-- 🆕 New repo: `checkmark-upkeep-docs-agentic-test` (Nov 2024)
-- 📦 Latest updates to `checkmark-upkeep-docs-action` (Oct 2024)
+- 🆕 New repo: `checkmark-upkeep-docs-agentic-test` (Nov 2025)
+- 📦 Latest updates to `checkmark-upkeep-docs-action` (Oct 2025)
 - 🏗️ Active development on documentation tools
 
 ---
